@@ -1,4 +1,5 @@
 # NoteApp
+Note App is a simple note taking application 📝. Written in Java and implements android libraries. All Changes are stored in the Room database.
  
 ## Used Libraries
 
