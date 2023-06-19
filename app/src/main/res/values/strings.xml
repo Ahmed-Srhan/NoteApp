@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="sheet_dialog_message">Are you sure want to delete \n this node?</string>
+    <string name="sheet_dialog_yes">yes</string>
+    <string name="sheet_dialog_no">No</string>
+    <string name="hintEditTextTitle">Title...</string>
+    <string name="hintEditTextSubTitle">SubTitle</string>
+    <string name="PriorityTextview">Priority</string>
+    <string name="hintEditTextNote">Note</string>
+    <string name="textViewDescription">Life is too Fast don\'t forget anything \n just Note it</string>
+    <string name="textViewNoFilter">No Filter</string>
+    <string name="textViewHighToLow">High to low</string>
+    <string name="textViewLowToHigh">Low to high</string>
+
+
+
+</resources>
