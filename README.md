@@ -15,6 +15,12 @@ Note App is a simple note taking application 📝. Written in Java and implement
 
 [- Databinding](https://developer.android.com/jetpack/androidx/releases/databinding)
 
+## Overview
+
+
+https://github.com/Ahmed-Srhan/NoteApp/assets/106891451/839959df-cc5b-45b8-80b1-f9f935cc89b2
+
+
 
 
 
